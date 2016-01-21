@@ -1,15 +1,14 @@
-/// <reference path="typings/angular2/angular2.d.ts" />
+/// <reference path="../typings/angular2/angular2.d.ts" />
 
 import {Component, bootstrap, View} from "angular2/angular2";
 
 @Component({
     selector: 'my-app'
-})
-@View({
+}) @View({
     template: '<h1>Hello {{ name }}</h1>'
 })
 class MyAppComponent {
-    name: string;
+    name:string;
 
     constructor() {
         this.name = 'Alice';
