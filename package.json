@@ -1,0 +1,23 @@
+{
+  "name": "ng2-svg",
+  "version": "1.0.0",
+  "description": "TypeScript 1.5 beta includes everything you need. Make sure to upgrade, even if you installed TypeScript previously.",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^1.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensWorkGit/ng2-svg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensWorkGit/ng2-svg/issues"
+  },
+  "homepage": "https://github.com/jensWorkGit/ng2-svg#readme"
+}
